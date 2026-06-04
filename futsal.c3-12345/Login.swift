@@ -14,7 +14,7 @@ struct Login: View {
         Text("Saya sudah login")
         Text("Oke bang")
         Text("Aku push ini ya yayaya")
-        
+        Text("Aku push ini ya yayaya hahaha hihihi")
         
     }
 }
