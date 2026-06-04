@@ -11,6 +11,8 @@ struct Onboarding: View {
     var body: some View {
         Text("Hello, This is onboarding page")
         Text("Hi my name is Dimas")
+        Text("Hi my name is Dimas")
+        Text("Hi my name is Dimas")
     }
 }
 
