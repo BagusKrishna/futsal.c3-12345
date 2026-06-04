@@ -12,6 +12,7 @@ struct Login: View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
         Text("Login disini yah")
         Text("Oke bang")
+        Text("Aku push ini ya yayaya")
         
         
     }
